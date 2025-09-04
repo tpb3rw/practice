@@ -27,3 +27,6 @@ def download_data(force=False):
 
 download_data()
 
+# %%
+
+
